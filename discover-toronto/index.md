@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Discover Toronto**
-Last updated: September 7, 2026
+Last updated: November 22, 2026
 
 ## Overview
 
@@ -21,7 +21,13 @@ Discover Toronto does **not** collect any personal information. Specifically:
 - We do not use advertising SDKs or third-party tracking
 - We do not store any data on external servers
 
-All content in the app (city guides, restaurants, creators, holidays) is static and bundled within the app itself. No data is transmitted to or from any server.
+Most content in the app (city guides, restaurants, creators, holidays) is bundled within the app itself. Some images, such as certain restaurant photos and creator avatars, are loaded over the internet from third-party image services (picsum.photos and DiceBear). These requests only download images; the app does not send any personal information with them. As with any web request, those services may receive standard technical information such as your device's IP address.
+
+---
+
+## Data Stored on Your Device
+
+The app saves your light/dark appearance preference on your device. If Android backup is enabled, Android may include this setting in your own Google account backup, which is subject to [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ---
 
